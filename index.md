@@ -1,91 +1,167 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Laci Videmsky
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Laci Videmsky
+<span style="color: grey">“Lah-tsi“ not “Lay-cee“</span>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="videmsky@gmail.com">videmsky@gmail.com</a>
+| <a href="https://www.linkedin.com/in/videmsky">LinkedIn</a>
+| <a href="https://github.com/videmsky">GitHub</a>
 </div>
 
 
-## Currently
+## About
 
-Standing on the shoulders of giants
+I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result. Observing, learning, and growing!
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010`
+__Harvard University__, Cambridge, MA
+- Graduate School of Design
+- Master in Architecture II
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2002`
+__California Polytechnic State University__, San Luis Obispo, CA
+- College of Architecture and Environmental Design
+- Bachelor of Architecture
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`1998`
+__Mesa Community College__, San Diego, CA
+- Transfer Student
 
 
 
-## Publications
+## Professional
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Jan 2018 – Present`
+__GitLab__, San Francisco, CA
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- __Senior Professional Services Engineer__
+  * • Delivered & authored training and lab courseware for paid customer engagements
+  * • Cross-trained team members in product courseware for paid training engagements
+  * • Traveled onsite to Fortune 500 companies to deliver professional services and serve as technical expert assisting pre-sales/post-sales efforts
+  * • Participated in scoping and refinement of professional services statements of work
+  * • Served as technical expert in discovery & scoping calls
+  * • Crafted CI/CD sandbox scenarios for various languages and frameworks to aid training efforts
+  * • Provisioned infrastructural assets using IAC tooling for enterprise & SMB customers, in both AWS & bare metal environments, and in HA and/or DR configurations
+  * • Performed large scale migrations from legacy SCMs to Git
+  * • Interviewed engineering and management candidates
+  * • Guest speaker for company webinars in CI/CD topics
 
 
-## Occupation
+`Feb 2016 - Dec 2018`
+__Dropcountr__, Redwood City, CA
 
-`1600`
-__Royal Mint__, London
+- __Full Stack Engineer__
+  * • Technical lead iterating and maintaining Ruby/Sinatra/PostgreSQL/Redis/Backbone web app and service layers for homeowners and water utilities.
+  * • Built services to ingest water utility data using Golang and Ruby
+  * • Developed backend APIs to facilitate messaging, data modeling, account creation & session management
+  * • Infrastructure automation with Chef and AWS Opsworks
+  * • Front to back feature development ranging from:
+    - • user defined geographical filtering
+    - • dynamic time-series charts & maps
+    - • filterable group messaging
+  * • Contributed to mobile app development using React-native & Redux
+  * • Interviewed engineering candidates and authored job descriptions for technical hires
+  * • Ambassador for company capabilities at conferences and speaking engagements
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Oct 2014 - Jan 2016`
+__Weather Analytics__, Bethesda, MD
+
+- __Product Architect__
+  * • Worked closely with business solutions group on new product development and operations
+  * • Interface regularly with prospects and current customers to gather requirements, suggest solutions, and facilitate on-boarding
+  * • Directed and contributed to production ready web API:
+  * • Architected swagger compliant RESTful patterns, conducted benchmarks & load tests using WRK, Bench Rest, & New Relic
+  * • Directed and contributed to crop production, yield, and price forecasting application:
+    * • prototyped end-to-end web-based application using Angular, Node/Express, mongoDB
+(user accounts and sessions), & postgreSQL/PostGIS
+    * • authored PostGIS geospatial queries & requisite front-end functionality with leaflet/mapbox & D3
+  * • Coordinated engineering team efforts using SCRUM methodologies
+  * • Maintained AWS assets and deployment builds
+  * • Interviewed engineering candidates and authored job descriptions for technical hires
+  * • Ambassador for company capabilities at conferences and speaking engagements
+
+
+`Jul 2012 – Oct 2014`
+__Resource Renewal Institute__, Mill Valley, CA
+
+- __Project Director__
+  * • Developed an online platform to make water resources more understandable. Facilitated sales of organization’s portfolio of multimillion dollar water assets.
+  * • Responsibilities: project management using agile methodologies, outreach, coordinating consultants, fund-raising, data research, data reconnaissance, data cleanup scripting, data visualization, and front-end engineering.
+
+
+`Aug 2013 – Dec 2014 (33% time)`
+__University of California Berkeley, College of Environmental Design__, Berkeley, CA
+
+- __Lecturer in Architecture__
+  * • Co-taught a core curriculum course for graduate students of architecture, which emphasized urban planning strategies for climate change and increased water stress.
+  * • Responsibilities: crafted course material, curated GIS data, and coordinated guest lecturers.
+
+
+`Jan 2012 – Aug 2012 (contractor)`
+__Berkeley Economic Research Associates__, Berkeley, CA
+
+- __UI Engineer__
+  * • Prototyped a browser based economics game to teach and test economic ideas for university undergraduates.
+  * • Responsibilities: designed and coded gaming interface, wireframes, static comps, coordinated deliverables with back-end engineer, collected user feedback, and met with prospective investors.
+
+
+`Mar 2011 – Jul 2012 (sole proprietor)`
+__Do__, Berkeley, CA
+
+- __Chief Do’er__
+  * • Designed and developed mobile and web-based applications as a freelance consultant. Specialized in opensource web cartography technologies and GIS mapping.
+  * • Responsibilities: everything.
+
+
+`2010 - 2011`
+__MASS Design Group__, Boston, MA
+
+- __Research Fellow__
+  * • Developed online platform “Design for Health Outcomes” http://www.massdesigngroup.org/framework
+  * • Responsibilities: managed and developed research material, maintained correspondence with experts and research consultants, collaborated with team members to meet project goals.
+
+
+`2009 - 2010`
+__Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
+
+- __Project Designer, Job Captain__
+  * • Designed and produced drawings for a 6000m2 passion fruit processing facility in Malindi Kenya for NGO clients.
+  * • Designed and produced drawings for a 16 story residential tower in downtown Beirut.
+  * • Works ranged from architectural designs, urban & landscape proposals for NGOs, prototypes/ marketing/competitions, design of furniture & fixtures, and organization and documentation of office portfolio for future publications.
+  * • Responsibilities: schematic design, design development, construction documents, specifications, client & planning meetings, coordination of consultants, and renderings.
 
 
 
-<!-- ### Footer
+## Hacker Skills
+Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC paradigms
+* • Infrastructure: KOps, Helm, Kubeadm, Docker, AWS
+* • Collaboration: Git, GitLab, Pivotal Tracker, Slack
+* • Front-end: HTML, CSS(SASS, LESS), vanilla Javascript fundamentals
+* • Client Side Frameworks: Backbone, Angular
+* • Backend: Rails/Sinatra/Ruby, Express.js/Node.js, Golang
+* • Visualization: D3.js
+* • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, Google Maps API
+* • Templating: Handlebars, EJS, ERB
+* • Deployment: GitLab CI, Jenkins, Opsworks
+* • GIS: QGIS 2.x (mostly for prepping geo data for web integration)
+* • Database: mongoDB, PostgreSQL + PostGIS, RethinkDB, Redis
+* • ORM: Sequel, Active Record
+* • Data Wrangling: Python, regular expressions, OpenRefine
+* • Graphics: Illustrator, Photoshop, InDesign
 
-Last updated: May 2013 -->
 
+
+## Languages
+  * • Spanish: speak, read & write at an intermediate level
+  * • Hungarian: speak at a beginner level
+
+<span style="color: grey">Last updated: March 2020</span>
 
