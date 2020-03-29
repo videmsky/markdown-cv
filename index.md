@@ -163,5 +163,19 @@ Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC para
   * • Spanish: speak, read & write at an intermediate level
   * • Hungarian: speak at a beginner level
 
-<span style="color: grey">Last updated: March 2020</span>
 
+
+## Activities
+  * • New California Water Atlas (co-founder): opensource & opendata project [https://github.com/NewCaliforniaWaterAtlas](https://github.com/NewCaliforniaWaterAtlas)
+  * • Nerds for Nature (co-founder): citizen science & community initiative [http://nerdsfornature.org](http://nerdsfornature.org)
+
+
+## Publications/Press
+* Estuary News: “Atlas Pegs Water Prices“ - New California Water Atlas [featured](http://www.sfestuary.org/wp-content/uploads/2012/09/EstNewsSept2014-v8-p4.pdf)
+* AP: “Calif. water atlas seeks to clarify water issues” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/sdut-calif-water-atlas-seeks-to-clarify-water-issues-2013nov16-story.html)
+* Grist: “Code green: Nerds for Nature pairs techies and enviros to hack the planet“ - Nerds for Nature initiative [featured](https://grist.org/living/code-green-nerds-for-nature-pairs-techies-and-enviros-to-hack-the-planet)
+* Wired.com: “Interactive Atlas Highlights Water Use Issues in California” - New California Water Atlas [featured](https://www.wired.com/wiredscience/2013/07/california-water-rights-atlas)
+* Boom: “For a New California Water Atlas” - New California Water Atlas featured
+* San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
+
+<span style="color: grey">Last updated: March 2020</span>
