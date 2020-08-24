@@ -142,7 +142,7 @@ __Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
 
 ## Hacker Skills
 Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC paradigms
-* • Infrastructure: KOps, Helm, Kubeadm, Docker, AWS
+* • Infrastructure: Terraform, KOps, Helm, kubectl, Kubeadm, Docker, Chef, AWS
 * • Collaboration: Git, GitLab, Pivotal Tracker, Slack
 * • Front-end: HTML, CSS(SASS, LESS), vanilla Javascript fundamentals
 * • Client Side Frameworks: Backbone, Angular
@@ -178,4 +178,4 @@ Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC para
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: March 2020</span>
+<span style="color: grey">Last updated: August 2020</span>

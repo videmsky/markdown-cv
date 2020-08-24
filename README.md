@@ -1,3 +1,11 @@
+# Laci Videmsky
+<span style="color: grey">“Lah-tsi“ not “Lay-cee“</span>
+
+
+## About
+
+I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result. Observing, learning, and growing!
+
 # markdown-cv
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
