@@ -54,7 +54,7 @@ __GitLab__, San Francisco, CA
   * • Guest speaker for company webinars in CI/CD topics
 
 
-`Feb 2016 - Dec 2018`
+`Feb 2016 - Oct 2017`
 __Dropcountr__, Redwood City, CA
 
 - __Full Stack Engineer__
