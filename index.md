@@ -38,7 +38,19 @@ __Mesa Community College__, San Diego, CA
 
 ## Professional
 
-`Jan 2018 – Present`
+`Nov 2020 – Present`
+__Harness__, San Francisco, CA
+
+- __Solutions Architect__
+  * • Collaborated with enterprise customers to realize the benefits of scalable Continuous Delivery with hands-on technical sessions, POCs, & tailored trainings
+  * • Served as technical expert in discovery & scoping calls
+  * • Participated in design and refinement of pre & post-sales onboarding playbooks
+  * • Delivered & authored training and lab courseware for paid customer engagements
+  * • Guided the adoption of robust logging and metrics solutions to optimize introspection of CI/CD workloads
+  * • Debugged K8s, Helm, & Terraform deployments, also lots of bash
+
+  
+`Jan 2018 – Nov 2020`
 __GitLab__, San Francisco, CA
 
 - __Senior Professional Services Engineer__
@@ -48,7 +60,7 @@ __GitLab__, San Francisco, CA
   * • Participated in scoping and refinement of professional services statements of work
   * • Served as technical expert in discovery & scoping calls
   * • Crafted CI/CD sandbox scenarios for various languages and frameworks to aid training efforts
-  * • Provisioned infrastructural assets using IAC tooling for enterprise & SMB customers, in both AWS & bare metal environments, and in HA and/or DR configurations
+  * • Provisioned infrastructural assets using IAC tooling for enterprise & SMB customers, in both AWS, GCP, & bare metal environments, and in HA and/or DR configurations
   * • Performed large scale migrations from legacy SCMs to Git
   * • Interviewed engineering and management candidates
   * • Guest speaker for company webinars in CI/CD topics
@@ -141,7 +153,7 @@ __Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
 
 
 ## Hacker Skills
-Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC paradigms
+Evolving and maturing knowledge of programming patterns, devops tooling, & data magery
 * • Infrastructure: Terraform, KOps, Helm, kubectl, Kubeadm, Docker, Chef, AWS
 * • Collaboration: Git, GitLab, Pivotal Tracker, Slack
 * • Front-end: HTML, CSS(SASS, LESS), vanilla Javascript fundamentals
@@ -150,11 +162,13 @@ Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC para
 * • Visualization: D3.js
 * • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, Google Maps API
 * • Templating: Handlebars, EJS, ERB
-* • Deployment: GitLab CI, Jenkins, Opsworks
+* • Deployment: Harness, GitLab CI, Jenkins, Opsworks
 * • GIS: QGIS 2.x (mostly for prepping geo data for web integration)
 * • Database: mongoDB, PostgreSQL + PostGIS, RethinkDB, Redis
 * • ORM: Sequel, Active Record
 * • Data Wrangling: Python, regular expressions, OpenRefine
+* • Web APIs: RESTful patterns, GraphQL
+* • OS: Unix/Linux, Bash scripting
 * • Graphics: Illustrator, Photoshop, InDesign
 
 
@@ -178,4 +192,4 @@ Evolving and maturing knowledge of OOP fundamentals, design patterns, & MVC para
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: August 2020</span>
+<span style="color: grey">Last updated: November 2021</span>
