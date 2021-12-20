@@ -14,7 +14,7 @@ title: Laci Videmsky
 
 ## About
 
-I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result. Observing, learning, and growing!
+I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result. Observing, learning, and growing! Polymath.
 
 
 
@@ -157,7 +157,7 @@ Evolving and maturing knowledge of programming patterns, devops tooling, & data 
 * • Infrastructure: Terraform, KOps, Helm, kubectl, Kubeadm, Docker, Chef, AWS
 * • Collaboration: Git, GitLab, Pivotal Tracker, Slack
 * • Front-end: HTML, CSS(SASS, LESS), vanilla Javascript fundamentals
-* • Client Side Frameworks: Backbone, Angular
+* • Client Side Frameworks: Backbone, Angular, React Native
 * • Backend: Rails/Sinatra/Ruby, Express.js/Node.js, Golang
 * • Visualization: D3.js
 * • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, Google Maps API
@@ -168,8 +168,8 @@ Evolving and maturing knowledge of programming patterns, devops tooling, & data 
 * • ORM: Sequel, Active Record
 * • Data Wrangling: Python, regular expressions, OpenRefine
 * • Web APIs: RESTful patterns, GraphQL
-* • OS: Unix/Linux, Bash scripting
-* • Graphics: Illustrator, Photoshop, InDesign
+* • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
+* • Content: Illustrator, Photoshop, InDesign, Premiere, Aftereffects
 
 
 
