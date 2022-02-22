@@ -38,7 +38,7 @@ __Mesa Community College__, San Diego, CA
 
 ## Professional
 
-`Nov 2020 – Present`
+`Nov 2020 – Dec 2021`
 __Harness__, San Francisco, CA
 
 - __Solutions Architect__
