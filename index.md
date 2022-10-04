@@ -38,6 +38,15 @@ __Mesa Community College__, San Diego, CA
 
 ## Professional
 
+`Mar 2022 – Aug 2022`
+__Observe__, San Mateo, CA
+
+- __Software Engineer__
+  * • Authored Terraform modules to expand suite of 3rd party integrations
+  * • Guided prospects and customers in platform adoption
+  * • Participated in on-call rotation
+
+
 `Nov 2020 – Dec 2021`
 __Harness__, San Francisco, CA
 
@@ -154,16 +163,16 @@ __Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
 
 ## Hacker Skills
 Evolving and maturing knowledge of programming patterns, devops tooling, & data magery
-* • Infrastructure: Terraform, KOps, Helm, kubectl, Kubeadm, Docker, Chef, AWS
-* • Collaboration: Git, GitLab, Pivotal Tracker, Slack
-* • Front-end: HTML, CSS(SASS, LESS), vanilla Javascript fundamentals
+* • Configuration: Terraform, KOps, Helm, Kustomize/kubectl, Kubeadm, Docker, Chef, AWS
+* • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker, Slack
+* • Front-end: HTML, CSS(SASS, LESS), vanilla JS fundamentals
 * • Client Side Frameworks: Backbone, Angular, React Native
-* • Backend: Rails/Sinatra/Ruby, Express.js/Node.js, Golang
+* • Backend: Rails/Sinatra/Ruby, Express/Node, Golang
 * • Visualization: D3.js
 * • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, Google Maps API
 * • Templating: Handlebars, EJS, ERB
 * • Deployment: Harness, GitLab CI, Jenkins, Opsworks
-* • GIS: QGIS 2.x (mostly for prepping geo data for web integration)
+* • GIS: QGIS 2.x
 * • Database: mongoDB, PostgreSQL + PostGIS, RethinkDB, Redis
 * • ORM: Sequel, Active Record
 * • Data Wrangling: Python, regular expressions, OpenRefine
@@ -192,4 +201,4 @@ Evolving and maturing knowledge of programming patterns, devops tooling, & data 
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: December 2021</span>
+<span style="color: grey">Last updated: October 2022</span>
