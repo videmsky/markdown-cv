@@ -41,7 +41,7 @@ __Mesa Community College__, San Diego, CA
 `Mar 2022 – Aug 2022`
 __Observe__, San Mateo, CA
 
-- __Software Engineer__
+- __Senior Software Engineer__
   * • Authored Terraform modules to expand suite of 3rd party integrations
   * • Guided prospects and customers in platform adoption
   * • Participated in on-call rotation
