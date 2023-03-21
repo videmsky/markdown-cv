@@ -14,7 +14,31 @@ title: Laci Videmsky
 
 ## About
 
-I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result. Observing, learning, and growing! Polymath.
+I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result.
+
+As a customer facing engineer, I possess a natural ease and comfort working with prospects & customers who are technical experts in their respective domains. I am extremely capable presenting the work to procurement executives and speaking on behalf of the company at conferences and workshops. I also possess an uncanny patience with the many moods of customers. #salesengineer #solutionsengineer #solutionsarchitect
+
+
+## Hacker Skills
+An evolving and maturing knowledge of programming patterns, devops workflows, & data magery. Strong in Linux, K8s, Git, & geospatial e2e applications. Note: As a technical generalist, I am not an expert in any of these technologies. However, I have used everything listed here in a professional capacity, many on a day-to-day basis, and mostly in front of customers!
+* • General Programming: Ruby, Golang, Javascript, Python
+* • Orchestration: Kubernetes, Crossplane(noob)
+* • Configuration: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, CloudFormation, eksctl
+* • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
+* • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, Opsworks
+* • Providers: AWS, GCP
+* • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
+* • Web APIs: RESTful patterns, GraphQL
+* • Observability: Prometheus, Grafana, OpenTelemetry(noob)
+* • Front-end: Typescript, HTML, CSS(SASS, LESS)
+* • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
+* • Templating: Handlebars, EJS, ERB
+* • Backend: Rails/Sinatra/Ruby, Express/Node, Golang
+* • Databases: PostgreSQL, Redis, MongoDB, RethinkDB 
+* • ORM: Sequel, Active Record
+* • Data Modeling: OpenRefine, dbt(noob)
+* • Data Streaming: Kafka, Materialize(noob)
+* • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, PostGIS, D3.js
 
 
 
@@ -161,27 +185,6 @@ __Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
 
 
 
-## Hacker Skills
-Evolving and maturing knowledge of programming patterns, devops tooling, & data magery
-* • Configuration: Terraform, KOps, Helm, Kustomize/kubectl, Kubeadm, Docker, Chef, AWS
-* • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker, Slack
-* • Front-end: HTML, CSS(SASS, LESS), vanilla JS fundamentals
-* • Client Side Frameworks: Backbone, Angular, React Native
-* • Backend: Rails/Sinatra/Ruby, Express/Node, Golang
-* • Visualization: D3.js
-* • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, Google Maps API
-* • Templating: Handlebars, EJS, ERB
-* • Deployment: Harness, GitLab CI, Jenkins, Opsworks
-* • GIS: QGIS 2.x
-* • Database: mongoDB, PostgreSQL + PostGIS, RethinkDB, Redis
-* • ORM: Sequel, Active Record
-* • Data Wrangling: Python, regular expressions, OpenRefine
-* • Web APIs: RESTful patterns, GraphQL
-* • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
-* • Content: Illustrator, Photoshop, InDesign, Premiere, Aftereffects
-
-
-
 ## Languages
   * • Spanish: speak, read & write at an intermediate level
   * • Hungarian: speak at a beginner level
@@ -201,4 +204,4 @@ Evolving and maturing knowledge of programming patterns, devops tooling, & data 
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: October 2022</span>
+<span style="color: grey">Last updated: March 2023</span>
