@@ -16,7 +16,7 @@ title: Laci Videmsky
 
 I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result.
 
-As a customer facing engineer, I possess a natural ease and comfort working with prospects & customers who are technical experts in their respective domains. I am extremely capable presenting a highly technical product to procurement executives and speaking on behalf of the company at conferences and workshops. I also possess an uncanny patience with the many moods of customers. #salesengineer #solutionsengineer #solutionsarchitect
+As a customer facing engineer, I possess a natural ease and comfort working with prospects and customers who are technical experts in their respective domains. I succinctly translate highly technical products and capabilities to managers and procurement executives. I enjoy being an ambassador for the company at conferences and workshops. I’ve been told I possess an uncanny patience with the many moods of customers.
 
 
 ## Hacker Skills
@@ -28,7 +28,8 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, Opsworks
 * • Providers: AWS, GCP
 * • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
-* • Web APIs: RESTful patterns, GraphQL
+* • Auth: LDAP, AD, IAM
+* • Web APIs: RESTful patterns(Swagger), GraphQL
 * • Observability: Prometheus, Grafana, OpenTelemetry(noob)
 * • Front-end: Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
