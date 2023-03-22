@@ -16,13 +16,13 @@ title: Laci Videmsky
 
 I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result.
 
-As a customer facing engineer, I possess a natural ease and comfort working with prospects & customers who are technical experts in their respective domains. I am extremely capable presenting the work to procurement executives and speaking on behalf of the company at conferences and workshops. I also possess an uncanny patience with the many moods of customers. #salesengineer #solutionsengineer #solutionsarchitect
+As a customer facing engineer, I possess a natural ease and comfort working with prospects & customers who are technical experts in their respective domains. I am extremely capable presenting a highly technical product to procurement executives and speaking on behalf of the company at conferences and workshops. I also possess an uncanny patience with the many moods of customers. #salesengineer #solutionsengineer #solutionsarchitect
 
 
 ## Hacker Skills
 An evolving and maturing knowledge of programming patterns, devops workflows, & data magery. Strong in Linux, K8s, Git, & geospatial e2e applications. Note: As a technical generalist, I am not an expert in any of these technologies. However, I have used everything listed here in a professional capacity, many on a day-to-day basis, and mostly in front of customers!
 * • General Programming: Ruby, Golang, Javascript, Python
-* • Orchestration: Kubernetes, Crossplane(noob)
+* • Orchestration: Kubernetes, Crossplane(noob), ECS
 * • Configuration: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, CloudFormation, eksctl
 * • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
 * • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, Opsworks
