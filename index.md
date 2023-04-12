@@ -34,7 +34,7 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Front-end: Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
 * • Templating: Handlebars, EJS, ERB
-* • Backend: Rails/Sinatra/Ruby, Express/Node, Golang
+* • Backend: Rails/Sinatra/Ruby, Express/Node, Golang/Gin
 * • Databases: PostgreSQL, Redis, MongoDB, RethinkDB 
 * • ORM: Sequel, Active Record
 * • Data Modeling: OpenRefine, dbt(noob)
@@ -62,6 +62,19 @@ __Mesa Community College__, San Diego, CA
 
 
 ## Professional
+
+`Aug 2022 – Current`
+__Do__, Central Coast, CA
+
+- __Chief Do’er__
+  * • Working with Enterprise customers to expand continuous delivery methodologies among business units
+  * • Enabling teams to explore new ways of working & embrace a non-radical shift-left methodology for publishing, securing, & shipping software
+  * • Implementing practical technical deliverables with minimal hand-waving
+  * • Evangelizing relevant best practices observed in the field
+  * • Focus: GitOps, Kubernetes, Progressive Delivery, Continuous Deployment, Metrics/Logging/Tracing (o11y), & Everything As Code
+  
+
+
 
 `Mar 2022 – Aug 2022`
 __Observe__, San Mateo, CA
@@ -143,7 +156,7 @@ __Resource Renewal Institute__, Mill Valley, CA
   * • Responsibilities: project management using agile methodologies, outreach, coordinating consultants, fund-raising, data research, data reconnaissance, data cleanup scripting, data visualization, and front-end engineering.
 
 
-`Aug 2013 – Dec 2014 (33% time)`
+`Aug 2013 – Dec 2014 (part-time)`
 __University of California Berkeley, College of Environmental Design__, Berkeley, CA
 
 - __Lecturer in Architecture__
@@ -151,38 +164,12 @@ __University of California Berkeley, College of Environmental Design__, Berkeley
   * • Responsibilities: crafted course material, curated GIS data, and coordinated guest lecturers.
 
 
-`Jan 2012 – Aug 2012 (contractor)`
-__Berkeley Economic Research Associates__, Berkeley, CA
-
-- __UI Engineer__
-  * • Prototyped a browser based economics game to teach and test economic ideas for university undergraduates.
-  * • Responsibilities: designed and coded gaming interface, wireframes, static comps, coordinated deliverables with back-end engineer, collected user feedback, and met with prospective investors.
-
-
-`Mar 2011 – Jul 2012 (sole proprietor)`
+`Mar 2011 – Jul 2012 (freelance)`
 __Do__, Berkeley, CA
 
 - __Chief Do’er__
   * • Designed and developed mobile and web-based applications as a freelance consultant. Specialized in opensource web cartography technologies and GIS mapping.
   * • Responsibilities: everything.
-
-
-`2010 - 2011`
-__MASS Design Group__, Boston, MA
-
-- __Research Fellow__
-  * • Developed online platform “Design for Health Outcomes” http://www.massdesigngroup.org/framework
-  * • Responsibilities: managed and developed research material, maintained correspondence with experts and research consultants, collaborated with team members to meet project goals.
-
-
-`2009 - 2010`
-__Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
-
-- __Project Designer, Job Captain__
-  * • Designed and produced drawings for a 6000m2 passion fruit processing facility in Malindi Kenya for NGO clients.
-  * • Designed and produced drawings for a 16 story residential tower in downtown Beirut.
-  * • Works ranged from architectural designs, urban & landscape proposals for NGOs, prototypes/ marketing/competitions, design of furniture & fixtures, and organization and documentation of office portfolio for future publications.
-  * • Responsibilities: schematic design, design development, construction documents, specifications, client & planning meetings, coordination of consultants, and renderings.
 
 
 
@@ -205,4 +192,4 @@ __Hashim Sarkis, Architecture Landscape & Urban Design__, Cambridge, MA
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: March 2023</span>
+<span style="color: grey">Last updated: April 2023</span>
