@@ -21,7 +21,7 @@ As a customer facing engineer, I possess a natural ease and comfort working with
 
 ## Hacker Skills
 An evolving and maturing knowledge of programming patterns, devops workflows, & data magery. Strong in Linux, K8s, Git, & geospatial e2e applications. Note: As a technical generalist, I am not an expert in any of these technologies. However, I have used everything listed here in a professional capacity, many on a day-to-day basis, and mostly in front of customers!
-* • General Programming: Ruby, Golang, Javascript, Python
+* • General Programming: Ruby, Golang, Javascript(TS), Python
 * • Orchestration: Kubernetes, Crossplane(noob), ECS
 * • Configuration: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, CloudFormation, eksctl
 * • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
@@ -29,9 +29,9 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Providers: AWS, GCP
 * • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
 * • Auth: LDAP, AD, IAM
-* • Web APIs: RESTful patterns(Swagger), GraphQL
+* • Web APIs: RESTful patterns(Swagger), GraphQL, Postman/Newman
 * • Observability: Prometheus, Grafana, OpenTelemetry(noob)
-* • Front-end: Typescript, HTML, CSS(SASS, LESS)
+* • Front-end: JS fundamentals, Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
 * • Templating: Handlebars, EJS, ERB
 * • Backend: Rails/Sinatra/Ruby, Express/Node, Golang/Gin
