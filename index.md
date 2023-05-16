@@ -14,7 +14,7 @@ title: Laci Videmsky
 
 ## About
 
-I am a technologist, surfer of waves, and a proud father of three. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result.
+I am a technologist mastering the art and science of supporting the sales cycle with business acumen, solid technical chops, and a sincere interest in the success of my customers. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result.
 
 As a customer facing engineer, I possess a natural ease and comfort working with prospects and customers who are technical experts in their respective domains. I succinctly translate highly technical products and capabilities to managers and procurement executives. I enjoy being an ambassador for the company at conferences and workshops. I’ve been told I possess an uncanny patience with the many moods of customers.
 
@@ -28,9 +28,9 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, Opsworks
 * • Providers: AWS, GCP
 * • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
-* • Auth: LDAP, AD, IAM
+* • Auth: LDAP, AD, IAM, Vault
 * • Web APIs: RESTful patterns(Swagger), GraphQL, Postman/Newman
-* • Observability: Prometheus, Grafana, OpenTelemetry(noob)
+* • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry(noob)
 * • Front-end: JS fundamentals, Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
 * • Templating: Handlebars, EJS, ERB
