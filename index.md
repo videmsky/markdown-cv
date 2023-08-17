@@ -30,7 +30,7 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
 * • Auth: LDAP, AD, IAM, Vault
 * • Web APIs: RESTful patterns(Swagger), GraphQL, Postman/Newman
-* • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry(noob)
+* • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry(noob), Datadog
 * • Front-end: JS fundamentals, Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
 * • Templating: Handlebars, EJS, ERB
@@ -63,18 +63,26 @@ __Mesa Community College__, San Diego, CA
 
 ## Professional
 
-`Aug 2022 – Current`
+`May 2023 – Current`
+__Vantage__, New York, NY
+
+- __Sales Engineer__
+  * • Growing our portfolio of enterprise customers through earned trust and consistent and high quality technical advisory
+  * • Guiding enterprise prospects through evaluation stages to realize business value and secure procurement
+  * • Demonstrating technical expertise through effective communication and technical acumen
+  * • Documenting use-cases and personas to shape tactical pre-sales and expansion strategies
+  * • Collaborating with engineering and product teams to enhance functionality and refine documentation
+
+`Aug 2022 – May 2023`
 __Do__, Central Coast, CA
 
 - __Chief Do’er__
-  * • Working with Enterprise customers to expand continuous delivery methodologies among business units
-  * • Enabling teams to explore new ways of working & embrace a non-radical shift-left methodology for publishing, securing, & shipping software
-  * • Implementing practical technical deliverables with minimal hand-waving
-  * • Evangelizing relevant best practices observed in the field
+  * • Worked with Enterprise customers to expand continuous delivery methodologies among business units
+  * • Enabled teams to explore new ways of working & embrace a non-radical shift-left methodology for publishing, securing, & shipping software
+  * • Implemented practical technical deliverables with minimal hand-waving
+  * • Evangelized relevant best practices observed in the field
   * • Focus: GitOps, Kubernetes, Progressive Delivery, Continuous Deployment, Metrics/Logging/Tracing (o11y), & Everything As Code
   
-
-
 
 `Mar 2022 – Aug 2022`
 __Observe__, San Mateo, CA
@@ -164,14 +172,6 @@ __University of California Berkeley, College of Environmental Design__, Berkeley
   * • Responsibilities: crafted course material, curated GIS data, and coordinated guest lecturers.
 
 
-`Mar 2011 – Jul 2012 (freelance)`
-__Do__, Berkeley, CA
-
-- __Chief Do’er__
-  * • Designed and developed mobile and web-based applications as a freelance consultant. Specialized in opensource web cartography technologies and GIS mapping.
-  * • Responsibilities: everything.
-
-
 
 ## Languages
   * • Spanish: speak, read & write at an intermediate level
@@ -192,4 +192,4 @@ __Do__, Berkeley, CA
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: April 2023</span>
+<span style="color: grey">Last updated: August 2023</span>
