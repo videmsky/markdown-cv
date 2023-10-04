@@ -63,17 +63,18 @@ __Mesa Community College__, San Diego, CA
 
 ## Professional
 
-`May 2023 – Current`
+`May 2023 – Sep 2023`
 __Vantage__, New York, NY
 
 - __Sales Engineer__
-  * • Growing our portfolio of enterprise customers through earned trust and consistent and high quality technical advisory
-  * • Guiding enterprise prospects through evaluation stages to realize business value and secure procurement
-  * • Demonstrating technical expertise through effective communication and technical acumen
-  * • Documenting use-cases and personas to shape tactical pre-sales and expansion strategies
-  * • Collaborating with engineering and product teams to enhance functionality and refine documentation
+  * • Grew our portfolio of enterprise customers through earned trust and consistent and high quality technical advisory
+  * • Guided enterprise prospects through evaluation stages to realize business value and secure procurement
+  * • Demonstrated technical expertise through effective communication and technical acumen
+  * • Documented use-cases and personas to shape tactical pre-sales and expansion strategies
+  * • Collaborated with engineering and product teams to enhance functionality and refine documentation
+  * • Delivered Terraform configuration as code to automate onboarding
 
-`Aug 2022 – May 2023`
+`Apr 2022 – Apr 2023`
 __Do__, Central Coast, CA
 
 - __Chief Do’er__
@@ -84,13 +85,13 @@ __Do__, Central Coast, CA
   * • Focus: GitOps, Kubernetes, Progressive Delivery, Continuous Deployment, Metrics/Logging/Tracing (o11y), & Everything As Code
   
 
-`Mar 2022 – Aug 2022`
-__Observe__, San Mateo, CA
+`Jan 2022 – Mar 2022`
+__Career Break__, Central Coast, CA
 
-- __Senior Software Engineer__
-  * • Authored Terraform modules to expand suite of 3rd party integrations
-  * • Guided prospects and customers in platform adoption
-  * • Participated in on-call rotation
+- __Sabbatical__
+  * • Pipedrive Sales Training: Command of the Message, MEDDIC, Objection Handling 
+  * • CKAD: Kuberntes certification training
+  * • Typescript: fundamentals training
 
 
 `Nov 2020 – Dec 2021`
@@ -192,4 +193,4 @@ __University of California Berkeley, College of Environmental Design__, Berkeley
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: August 2023</span>
+<span style="color: grey">Last updated: October 2023</span>
