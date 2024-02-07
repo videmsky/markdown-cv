@@ -26,7 +26,7 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Orchestration: Kubernetes, Crossplane(noob), ECS
 * • Configuration: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, CloudFormation, eksctl
 * • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
-* • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, Opsworks
+* • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, GitHub Actions
 * • Providers: AWS, GCP
 * • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
 * • Auth: LDAP, AD, IAM, Vault
@@ -34,11 +34,11 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry(noob), Datadog
 * • Front-end: JS fundamentals, Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
-* • Backend: Rails/Sinatra/Ruby, Express/Node, Golang/Gin
+* • Backend: Rails/Sinatra, Express/Node, Golang/Gin, Next.JS
 * • Databases: PostgreSQL, Redis, MongoDB, RethinkDB
 * • Data Modeling: OpenRefine, dbt(noob)
 * • Data Streaming: Kafka, Materialize(noob)
-* • Mapping: Leaflet.js/Mapbox.js, Turf.js, Three.js, GDAL, PostGIS, D3.js
+* • Mapping: Leaflet.JS/Mapbox.JS, Turf.jJS, Three.JS, GDAL, PostGIS, D3.JS
 
 
 
