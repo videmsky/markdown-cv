@@ -38,7 +38,7 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • Databases: PostgreSQL, Redis, MongoDB, RethinkDB
 * • Data Modeling: OpenRefine, dbt(noob)
 * • Data Streaming: Kafka, Materialize(noob)
-* • Mapping: Leaflet.JS/Mapbox.JS, Turf.jJS, Three.JS, GDAL, PostGIS, D3.JS
+* • Mapping: Leaflet/Mapbox, Turf.JS, Three.JS, GDAL, PostGIS, D3.JS
 
 
 
