@@ -24,7 +24,7 @@ An evolving and maturing knowledge of programming patterns, devops workflows, & 
 * • General Programming: Ruby, Golang, Javascript(TS), Python
 * • AI: LangChain, Ollama, AutoGen, pgvector
 * • Orchestration: Kubernetes, Crossplane(noob), ECS
-* • Configuration: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, CloudFormation, eksctl
+* • IaC: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, Pulumi
 * • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
 * • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, GitHub Actions
 * • Providers: AWS, GCP
@@ -192,4 +192,4 @@ __University of California Berkeley, College of Environmental Design__, Berkeley
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: January 2024</span>
+<span style="color: grey">Last updated: March 2024</span>
