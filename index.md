@@ -22,22 +22,22 @@ As a customer facing engineer, I possess a natural ease and comfort working with
 ## Hacker Skills
 An evolving and maturing knowledge of programming patterns, devops workflows, & data magery. Strong in Linux, K8s, Git, & geospatial e2e applications.
 * • General Programming: Ruby, Golang, Javascript(TS), Python
-* • AI: LangChain, Ollama, AutoGen, pgvector
+* • AI: LangChain, Ollama, AutoGen, pgvector, Claude Code
 * • Orchestration: Kubernetes, Crossplane(noob), ECS
 * • IaC: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, Pulumi
 * • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
 * • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, GitHub Actions
 * • Providers: AWS, GCP
-* • Env: Unix/Linux, Bash/Shell Scripting, VIM, VSCode
+* • Env: Unix/Linux, Bash/Shell Scripting
 * • Auth: LDAP, AD, IAM, Vault
 * • Web APIs: RESTful patterns(Swagger), GraphQL, Postman/Newman
-* • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry(noob), Datadog
+* • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry, Datadog
 * • Front-end: JS fundamentals, Typescript, HTML, CSS(SASS, LESS)
-* • Client Side Frameworks: Backbone, Angular, React, WASM(noob)
+* • Client Side Frameworks: Backbone, Angular, React, WASM
 * • Backend: Rails/Sinatra, Express/Node, Golang/Gin, Next.JS
 * • Databases: PostgreSQL, Redis, MongoDB, RethinkDB
 * • Data Modeling: OpenRefine, dbt(noob)
-* • Data Streaming: Kafka, Materialize(noob)
+* • Data Streaming: Kafka, Materialize(noob), Redpanda
 * • Mapping: Leaflet/Mapbox, Turf.JS, Three.JS, GDAL, PostGIS, D3.JS
 
 
@@ -62,18 +62,18 @@ __Mesa Community College__, San Diego, CA
 
 ## Professional
 
-`May 2023 – Sep 2023`
-__Vantage__, New York, NY
+`March 2024 – Present`
+__Pulumi__, Seattle, WA
 
-- __Sales Engineer__
+- __Solutions Architect__
   * • Grew our portfolio of enterprise customers through earned trust and consistent and high quality technical advisory
   * • Guided enterprise prospects through evaluation stages to realize business value and secure procurement
   * • Demonstrated technical expertise through effective communication and technical acumen
   * • Documented use-cases and personas to shape tactical pre-sales and expansion strategies
   * • Collaborated with engineering and product teams to enhance functionality and refine documentation
-  * • Delivered Terraform configuration as code to automate onboarding
+  * • Contributed to customer facing policy as code framework and cloud provider SDKs
 
-`Apr 2022 – Apr 2023`
+`Apr 2022 – Feb 2024`
 __Do__, Central Coast, CA
 
 - __Chief Do’er__
