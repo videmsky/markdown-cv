@@ -192,4 +192,4 @@ __University of California Berkeley, College of Environmental Design__, Berkeley
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: March 2024</span>
+<span style="color: grey">Last updated: July 2025</span>
