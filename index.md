@@ -14,7 +14,7 @@ title: Laci Videmsky
 
 ## About
 
-I am a technologist mastering the art and science of supporting the sales cycle with business acumen, solid technical chops, and a sincere interest in the success of my customers. I love building things that matter, working with healthy teams, and surprising & delighting the world with the result.
+I am a technologist mastering the art and science of supporting the sales cycle with business acumen, solid technical chops, and a sincere interest in the success of my customers. I love building things that matter, working with thriving teams, and surprising & delighting the world with the result.
 
 As a customer facing engineer, I possess a natural ease and comfort working with prospects and customers who are technical experts in their respective domains. I succinctly translate highly technical products and capabilities to managers and procurement executives. I enjoy being an ambassador for the company at conferences and workshops. I’ve been told I possess an uncanny patience with the many moods of customers.
 
@@ -22,20 +22,20 @@ As a customer facing engineer, I possess a natural ease and comfort working with
 ## Hacker Skills
 An evolving and maturing knowledge of programming patterns, devops workflows, & data magery. Strong in Linux, K8s, Git, & JS.
 * • General Programming: Javascript(TS), Python, Golang, Ruby
-* • AI: LangChain, RAG, pgvector
+* • AI: LangChain, Strands Agents SDK, RAG, pgvector
 * • Orchestration: K8s, ECS, Docker Compose
 * • IaC: Terraform, KOps, Helm, Kustomize, Kubeadm, Docker, Chef, Ansible, Pulumi
 * • Collaboration: Git, GitHub/GitLab/Gerrit, Jira, Pivotal Tracker
 * • Delivery: ArgoCD, Harness, GitLab CI, Jenkins, GitHub Actions
 * • Providers: AWS(expert), GCP, Azure
 * • Env: Unix/Linux, Bash/Shell Scripting
-* • Auth: LDAP, AD, IAM, Vault
+* • Auth: LDAP, AD, IAM, Vault, OIDC
 * • Web APIs: RESTful patterns(Swagger), GraphQL, Postman/Newman
 * • O11y: Prometheus, Grafana, Fluent Bit, OpenTelemetry, Datadog
 * • Front-end: JS fundamentals, Typescript, HTML, CSS(SASS, LESS)
 * • Client Side Frameworks: Backbone, Angular, React
 * • Backend: Rails/Sinatra, Express/Node, Golang/Gin, Next.JS
-* • Databases: PostgreSQL, Redis, MongoDB, RethinkDB
+* • Databases: PostgreSQL, Redis, MongoDB, ChromaDB
 * • Data Modeling: OpenRefine, dbt
 * • Data Streaming: Kafka, Materialize, Redpanda
 * • Mapping: Leaflet/Mapbox, Turf.JS, Three.JS, GDAL, PostGIS, D3.JS
@@ -66,12 +66,13 @@ __Mesa Community College__, San Diego, CA
 __Pulumi__, Seattle, WA
 
 - __Solutions Architect__
-  * • Grew our portfolio of enterprise customers through earned trust and consistent and high quality technical advisory
-  * • Guided enterprise prospects through evaluation stages to realize business value and secure procurement
-  * • Demonstrated technical expertise through effective communication and technical acumen
-  * • Documented use-cases and personas to shape tactical pre-sales and expansion strategies
-  * • Collaborated with engineering and product teams to enhance functionality and refine documentation
-  * • Contributed to customer facing policy as code framework and cloud provider SDKs
+  * • Earned Pulumi's FY26 "Big Deal" award for closing the largest, most strategic opportunities, with the highest average deal size and most total ACV on the team
+  * • Guided enterprise prospects from technical evaluation through procurement, proving business value at each stage
+  * • Grew a portfolio of enterprise accounts as a trusted technical advisor, driving adoption and expansion
+  * • Defined customer use cases and buyer personas that shaped pre-sales and expansion strategy
+  * • Built technical demos for workshops, conferences and customer enablement, aligned with go-to-market strategy and product launches
+  * • Partnered with engineering and product teams to influence the roadmap, improve features and refine documentation
+  * • Contributed to Pulumi's open-source policy-as-code framework and cloud provider SDKs
 
 `Apr 2022 – Feb 2024`
 __Do__, Central Coast, CA
@@ -192,4 +193,4 @@ __University of California Berkeley, College of Environmental Design__, Berkeley
 * Boom: “For a New California Water Atlas” - New California Water Atlas featured
 * San Diego Union Tribune: “Interactive “water atlas” makes water claim data public” - New California Water Atlas [featured](https://www.sandiegouniontribune.com/news/environment/sdut-interactive-water-atlas-renewable-resource-2013apr12-story.html)
 
-<span style="color: grey">Last updated: October 2025</span>
+<span style="color: grey">Last updated: September 2026</span>
